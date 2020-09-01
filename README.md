@@ -10,3 +10,7 @@ Most student programs relied heavily on in-person events. With COVID19, we've ha
 This project pulled information from all fundraising pages since 2014 (a fundraising page report & transaction report).
 
 After running a few models (listed above), we were able to interpret our results to improve our goal-setting and strategic planning methods for students.
+
+You can find the raw data csv files in this repo, as well as a copy of the colab notebook.
+
+Enjoy!
