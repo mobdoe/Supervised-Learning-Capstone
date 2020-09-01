@@ -19,3 +19,6 @@ After running a few models (listed above), we were able to interpret our results
 You can find the raw data csv files in this repo, as well as a copy of the colab notebook.
 
 Enjoy!
+
+Link to slide deck:
+https://www.canva.com/design/DAECmFR_W-o/UQSodyjaRgFMe_TC2PjPCw/view?utm_content=DAECmFR_W-o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
